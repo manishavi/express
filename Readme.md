@@ -8,15 +8,8 @@
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
 
-
-vbdkbvl
-vs,jnkd
-fdgnhkbhnfl
-bkjbfl
-fkjh
-jhcjs
-jhdk
-
+  happy
+  
 
 ```js
 var express = require('express')
